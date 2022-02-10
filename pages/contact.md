@@ -14,7 +14,7 @@ permalink: /:catergories/:date/:year/:month//:title/
 <a href="mailto:someone@example.com"> send email</a> to me .</p>
 </pre>
 
-![Picture of Travel]({{ "/assets/img/pexels/travel.jpeg" | relative_url}})
+![Picture of Travel](assets/img/pexels/travel.jpeg)
 
-<img src="/assets/img/pexels/travel.jpeg" alt=" travel pic" style= "float:right;" >
+<img src="assets/img/pexels/travel.jpeg" alt=" travel pic" style= "float:right;" >
 </body>
