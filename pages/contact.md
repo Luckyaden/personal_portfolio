@@ -4,7 +4,7 @@ title: "Contact"
 date: 2022-02-10 10:10:15 -0700
 author: Lucky
 categories: jekyll
-feature-img: "/assets/img/pexels/book-glass.jpeg"
+feature-img: "assets/img/pexels/book-glass.jpeg"
 permalink: /:catergories/:date/:year/:month//:title/
 ---
 <body style="background-color:lightblue;">
@@ -14,7 +14,7 @@ permalink: /:catergories/:date/:year/:month//:title/
 <a href="mailto:someone@example.com"> send email</a> to me .</p>
 </pre>
 
-![Picture of Travel](assets/img/pexels/travel.jpeg)
+![Picture of Travel]({{"/assets/img/pexels/travel.jpeg"| relative_url}})
 
 <img src="assets/img/pexels/travel.jpeg" alt=" travel pic" style= "float:right;" >
 </body>
