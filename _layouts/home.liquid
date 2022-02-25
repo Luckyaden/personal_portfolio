@@ -5,10 +5,34 @@ layout: default
 <div class="home">
 
     <div id="main" class="call-out"
-         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+         style="background-image: url('{{ site.header_feature_image | relative_url }}');
+         height: 400px;background-size:cover;position:relative;z-index:-1;">
         <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    
     </div>
-
-    {% include blog/blog.liquid %}
-
 </div>
+
+<div>
+<img src="/personal_portfolio/assets/img/pexels/sun.jpg" alt="Girl in a jacket" style="float:right;position:relative;z-index:1;left:10px;bottom:70px;border: solid white 10px;padding:10px;background-color:white;border:solid #000 0.5px;box-shadow: 0px 14px 15px 4px grey;width:700px;height:600px;"> 
+</div>
+<div>
+<img src="/personal_portfolio/assets/img/pexels/tag.jpg" alt="Girl in a jacket" style="float:right;position:absolute;z-index:3;width:300px;left:680px;top:700px;box-shadow: 0px 10px 15px 2px grey;padding:10px;background-color:white;border:solid #000 0.3px;">
+</div>
+
+<p>
+
+<pre style="font-family:sans-serif;font-weight:100;"> 
+
+<aside style="text-align:center;font-family:sans-serif;font-weight:bold;font-size:30px;position:relative;right:70px;">Welcome To My Page</aside>
+                My name is Lucky Aden and welcome to personal porfolio.
+                Here you will know more about me , through my profolio 
+                you will see open/closed sources projects I have done so 
+                far. My journey to the tech world and any adivce I have 
+                through my blog . Look through my resume to see my 
+                experinces and skills , I have .Lastly, feel free to contact
+                me! Hope you know little more about who I can and what 
+                skills I have by nagivating through my webist! 
+
+
+</pre>
+</p>
