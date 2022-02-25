@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resume"
-feature-img: "assets/img/pexels/blue.jpg"
+img: "/personal_portfolio/assets/img/pexels/tag.jpg"
 ---
 <section style="text-align:center;"><b style="font-size:50px;">Lucky Aden</b></section>
 

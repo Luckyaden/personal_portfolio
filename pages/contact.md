@@ -7,9 +7,9 @@ categories: jekyll
 feature-img: "assets/img/pexels/sakura.jpg"
 permalink: /:catergories/:date/:year/:month//:title/
 ---
-<body style= "background-color:light-pink;">
-<h3 style="text-align:center;">{{page.author}}</h3>
-<div markdown= "1">
-![travel pic](/personal_portfolio/assets/img/pexels/travel.jpeg)
+<div>
+<img src="/personal_portfolio/assets/img/pexels/travel.jpeg" alt="Girl in a jacket" style="float:right;position:relative;z-index:1;left:400px;bottom:60px;border: solid white 10px;padding:10px;background-color:white;border:solid #000 0.5px;box-shadow: 0px 10px 15px 2px grey;"> 
 </div>
-</body>
+<div>
+<img src="/personal_portfolio/assets/img/pexels/sakura.jpg" alt="Girl in a jacket" style="float:right;position:absolute;z-index:3;width:30%;left:400px;top:500px;box-shadow: 0px 10px 15px 2px grey;padding:10px;background-color:white;border:solid #000 0.3px;">
+</div>
