@@ -7,9 +7,9 @@ categories: jekyll
 feature-img: "assets/img/pexels/sakura.jpg"
 permalink: /:catergories/:date/:year/:month//:title/
 ---
-<div>
-<img src="/personal_portfolio/assets/img/pexels/travel.jpeg" alt="Girl in a jacket" style="float:right;position:relative;z-index:1;left:400px;bottom:60px;border: solid white 10px;padding:10px;background-color:white;border:solid #000 0.5px;box-shadow: 0px 10px 15px 2px grey;"> 
-</div>
-<div>
-<img src="/personal_portfolio/assets/img/pexels/sakura.jpg" alt="Girl in a jacket" style="float:right;position:absolute;z-index:3;width:30%;left:400px;top:500px;box-shadow: 0px 10px 15px 2px grey;padding:10px;background-color:white;border:solid #000 0.3px;">
-</div>
+<hr style= " content: '§';display: inline-block;position: relative;top: -14px;padding: 0 10px; background: #f0f0f0;color: #8c8b8b;font-size: 18px;-webkit-transform: rotate(60deg); -moz-transform: rotate(60deg);transform: rotate(60deg);">
+<hr style="$$/sect$$">
+
+<section>
+<img src="/personal_portfolio/assets/img/portfolio/ribbon.jpg">
+</section>
