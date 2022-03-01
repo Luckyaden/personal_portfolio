@@ -3,6 +3,17 @@ layout: page
 title: "Resume"
 img: "/personal_portfolio/assets/img/pexels/tag.jpg"
 ---
+
+
+<div style="position:relative;bottom:250px;width:900px;height:80px;right:60px;">
+{% include resume.html %}
+</div>
+
+
+
+
+---------------
+
 <section style="text-align:center;"><b style="font-size:50px;">Lucky Aden</b></section>
 
 -----------------   
