@@ -16,7 +16,7 @@ tags: [Page]
 {% include contact.html %}
 </div>
 </div>
-<div style="position:relative;bottom:300px;">
+<div style="position:relative;bottom:370px;">
 {% include portfolio.html %}
 </div>
 

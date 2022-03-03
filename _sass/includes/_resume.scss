@@ -8,12 +8,13 @@
     position: relative;
     width:130%;
     min-height: 50vh;
-    background:url(com.jpg);
+    background:url(grey-1.jpg);
     background-size:cover;
 }
 .back:before {
     content: "";
     position: absolute;
+    z-index: 1;
     top:0;
     left:0;
     width:100%;
@@ -23,4 +24,14 @@
     background-position: center;
     mix-blend-mode: screen;
 
+}
+.center {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    z-index: 2;
+    top: 200px;
+    left: 580px;
+    transform: translate(-50%,-50%);
 }
