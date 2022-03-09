@@ -6,5 +6,5 @@ author: Lucky
 categories: jekyll
 permalink: /:catergories/:date/:year/:month//:title/
 ---
-{% include resume.html %}
+
 {% include message.html %}
