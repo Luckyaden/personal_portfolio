@@ -3,6 +3,11 @@ layout: page
 title: "Resume"
 img: "/personal_portfolio/assets/img/pexels/tag.jpg"
 ---
+<div style="position:relative;bottom:250px;width:900px;height:80px;right:60px;">
+{% include resume.html %}
+</div>
+
+---------------
 <section style="text-align:center;"><b style="font-size:50px;">Lucky Aden</b></section>
 
 -----------------   
@@ -16,7 +21,7 @@ img: "/personal_portfolio/assets/img/pexels/tag.jpg"
 <hr style="border:2px solid black">
 <div>
 <b>University of Minnesota Twin Cities</b>     
-<div style="float:right"> Sept 2015- May 2019</div>
+<div style="float:right"> Sept 2015-May 2019</div>
 </div>
 -----
 
@@ -43,13 +48,13 @@ img: "/personal_portfolio/assets/img/pexels/tag.jpg"
 <table style>
 <tr>
 <td style ="border-style:none;"> <b>Databases: </b>PostgreSQL, HTTP</td>
-<td style ="border-style:none;"> <b>Tools: </b> Git, GitHub </td>
-<td style ="border-style:none;"> <b> Languages: </b> Java, JavaScript, HTML, CSS </td>
+<td style ="border-style:none;"> <b>Tools: </b> Git, GitHub, Git Pages, Docker, Colima </td>
+<td style ="border-style:none;"> <b> Languages: </b> Java, JavaScript, HTML, CSS, Ruby, Bootstrap </td>
 </tr>
 <tr>
-<td style ="border-style:none;"><b>Web Development: </b>RESTFUl API , HTML, CSS, Jekyll</td>
-<td style ="border-style:none;"><b>Databases Systems: </b>Backend &Frontend Development in Java</td>
-<td style ="border-style:none;"><b>Currently Learning: </b> JavaScript , Python</td>
+<td style ="border-style:none;"><b>Web Development: </b>RESTFUl API, HTML, CSS, Jekyll, SASS, Markdown, Liquid </td>
+<td style ="border-style:none;"><b>Databases Systems: </b>Backend & Frontend Development in Jav</td>
+<td style ="border-style:none;"><b>Currently Learning: </b> JavaScript, Python</td>
 </tr>
 </table>
 

@@ -1,0 +1,28 @@
+
+.ribbon {
+    font-size:32px;
+    width:400px;
+    background-color: #9955bb;
+    color:white;
+    text-align: center;
+    padding: 1em 2em;
+    margin: 2em auto;
+    position: relative;
+}
+.ribbon:before {
+    content: "";
+    position:absolute;
+    border: 1.5em solid #9955bb;
+    left: -2em;
+    border-left-color:transparent;
+
+}
+
+.ribbon:after {
+    content: "";
+    position:absolute;
+    border: 1.5em solid #9955bb;
+    right: -2em;
+    border-right-color:transparent;
+
+}
