@@ -8,3 +8,5 @@ permalink: /:catergories/:date/:year/:month//:title/
 ---
 
 {% include message.html %}
+
+<script type="text/javascript"  src="{{site.baseurl }}/assets/js/mess.js"></script>
